@@ -3,13 +3,13 @@ EasyPluginDeployment
 
 upload plugin files to multiple ftp hosts
 
-Okay, this bash script is for Fragnet servers: ([COLOR="#FF0000"]change the red txt according to your prefs[/COLOR]) 
+Okay, this bash script is for Fragnet servers: (change the red txt according to your prefs) 
 
-- Create the file [CODE]procon.sh[/CODE] in the folder [CODE]procon[/CODE]
+- Create the file procon.sh in the folder procon
 
-- Then add sub folders [CODE]Plugins/BF4[/CODE]
+- Then add sub folders Plugins/BF4
 
-- Now you have [CODE]/home/username/procon/Plugins/BF4[/CODE] and to upload your plugin, place it in the BF4 folder under [CODE]/home/username/procon/Plugins/[/CODE]
+- Now you have /home/username/procon/Plugins/BF4 and to upload your plugin, place it in the BF4 folder under /home/username/procon/Plugins/
 This will also work with .inc files, just keep the folder structure to upload as is. ;)
 
-- Now CD to the [CODE]/home/username/procon[/CODE] folder and run the command [CODE]sh procon.sh[/CODE] to upload your plugin(s) to all defined FTP servers. :)
+- Now CD to the /home/username/procon folder and run the command sh procon.sh to upload your plugin(s) to all defined FTP servers. :)
