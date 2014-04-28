@@ -3,7 +3,7 @@ EasyPluginDeployment
 
 upload plugin files to multiple ftp hosts
 
-Okay, this bash script is for Fragnet servers: (change the red txt according to your prefs) 
+This bash script is for Fragnet servers:
 
 - Create the file procon.sh in the folder procon
 
